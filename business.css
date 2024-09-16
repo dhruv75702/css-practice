@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bus-dev {
+    background-color: #1de592;
+    width: 400px;
+    text-align: left;
+    padding: 60px;
+    border-radius: 10px;
+    margin: 60px auto;
+}
+
+.btn-bus {
+    padding: 12px 50px;
+    /* padding-top: 10px;
+    padding-bottom: 10px; */
+    border-radius: 40px;
+    border: none;
+    font-size: 15.5px;
+}

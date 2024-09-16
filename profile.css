@@ -1,0 +1,40 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.profile {
+    border: 1.5px solid lightgray;
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: left;
+    margin: 70px auto;
+}
+
+.profs {
+    padding: 0 15px;
+}
+
+.highlight {
+    color: #5f6367;
+    font-size: 16px;
+}
+
+.pp1 {
+    border-radius: 50%;
+    width: 60px;
+    padding: 25px;
+}
+
+.see-prof {
+    color: rgb(143, 143, 245);
+    font-size: 16.5px;
+    border-top: 1px solid lightgray;
+    padding: 0 15px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.see-prof p {
+    padding-left: 15px;
+}
